@@ -1,4 +1,8 @@
+
 hello world everyone
+
+hello world!!
+
 
 change for login feature
 
@@ -6,4 +10,8 @@ ghange5: related to test push normal to remote master
 
 team mate change done by team memeber to test the rebase
 
+
 change made on remote master
+
+hi making change here on local master for testing
+bug3:change made on local master to fix a bug by me
